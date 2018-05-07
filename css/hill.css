@@ -1,0 +1,246 @@
+
+.head_AF_center .head_AF_center_L span .pic2{
+	background: url(../images/hill/pic3.jpg) no-repeat
+}
+.head_BF .menu{
+	z-index: 100;
+}
+.head_CF{
+	width:1903px;
+	height:1066px;
+	background: url(../images/hill/pic1.jpg) no-repeat;
+	margin:0 auto;
+	position: relative;
+	/*margin-top:-10px;*/
+
+}
+.head_CF .word{
+	position: absolute;
+	z-index: 4;
+	right:440px;
+	width: 457px;
+	margin: 10px 0 0 44px;
+	top: 115px;
+	color: #423117;
+	/*margin-left:1000px;*/
+}
+.head_CF .word strong{
+	display: block;
+
+}
+.head_CF .law{
+	color: #464544;
+	padding-top: 5px;
+	line-height: 20px;
+	font-size: 14px;
+	float: left;
+	width: 410px;
+	position: absolute;
+	right:480px;
+	top:330px;
+}
+.head_CF .law b{
+	display: block;
+	color: #7b5923;
+	font-size: 26px;
+	line-height: 40px;
+	
+	
+}
+.head_CF .law strong{
+	color: #464544;
+	line-height: 20px;
+	font-size: 14px;
+}
+.head_CF .tempWrap{
+	width: 460px;
+	height: 85px;
+	position: absolute;
+	right: 425px;
+	top: 225px;
+}
+.head_CF .tempWrap a{
+	display: block;
+	width:66px;
+	float: left;
+	margin-right:3px; 
+
+}
+.head_CF .tempWrap a i{
+	display: block;
+	width: 20px;
+	height:18px;
+	background:url(../images/hill/pica.png) no-repeat -48px 0px;
+	margin-left:25px;
+	display: none; 
+}
+.head_CF .tempWrap img{
+	width:50px;
+	transition: width 0.3s
+}
+.head_CF .tempWrap a .fisrt{
+	width: 66px;
+}
+.head_CF .tempWrap i:nth-child(1){
+	display: block;
+}
+.head_CF .tempWrap a:hover img {
+	width: 66px;
+	
+}
+
+.head_CF .tempWrap a:hover i{
+	display: block;
+}
+
+
+.head_CF .pic{
+	position: absolute;
+    z-index: 10;
+    width: 1207px;
+    padding-left: 28px;
+    height: 160px;
+    top: 513px;
+    left: 50%;
+    margin-left: -534px;
+    background: url(../images/hill/pic4.png) no-repeat;
+
+}
+.head_CF .pic a{
+	float: left;
+	width: 100px;
+	margin-top: 13px;
+	margin-left: 24px;
+	text-align: center;
+	position: relative;
+	z-index: 5;
+	color: #805c11;
+	font-size: 24px;
+}
+.head_CF .pic a img{
+	width: 77px;
+	display: block;
+	margin: 11px auto 5px;
+}
+.head_CF .pic a:hover img{
+	width: 100px;
+	margin-top: 0;
+}
+.head_CF .pic span{
+	width: 1000px;
+	height: 1px;
+	display: block;
+	position: absolute;
+	z-index: 1;
+	background: #d0b69d;
+	top: 67px;
+	left: 37%;
+	margin-left: -400px;
+}
+.head_DF{
+	position: absolute;
+    width: 960px;
+    border-bottom: 1px solid #666;
+    left: 50%;
+    margin-left: -480px;
+    top: 1045px;
+    z-index: 12;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.head_DF .DF_center{
+	width:460px;
+	height:20px;
+	margin:0 auto;
+	position: relative;
+	/*border:1px solid red;*/
+}
+.head_DF .DF_center span{
+	display: block;
+	text-align: left;
+	font-size:12px; 
+	color:#000;
+}
+.head_DF .DF_center ul{
+	position: absolute;
+	top:0px;
+	left:50px;
+}
+.head_DF .DF_center ul li{
+	width:80px;
+	height:20px;
+	float: left;
+	/*border:1px solid red;*/
+}
+.head_DF .DF_center ul li a{
+	display: block;
+	float: left;
+}
+
+.head_DF .DF_center ul li a:hover span{
+	color:#a70d01;
+}
+.head_DF .DF_center ul li a span{
+	display: block;
+	float: left;
+}
+.head_DF .DF_center ul li a .WeChat{
+	width:22px;
+	height:21px;
+	background: url(../images/hill/images3.png) no-repeat -87px -28px;
+}
+.head_DF .DF_center ul li a .Easecredit{
+	width:22px;
+	height:21px;
+	background: url(../images/hill/images3.png) no-repeat -150px -28px;
+}
+
+.head_DF .DF_center ul li a .blog{
+	width:22px;
+	height:21px;
+	background: url(../images/hill/images3.png) no-repeat -212px -28px;
+}
+.head_DF .DF_center ul li a .space{
+	width:22px;
+	height:21px;
+	background: url(../images/hill/images3.png) no-repeat -303px -28px;
+}
+.head_DF .DF_center ul li a .more{
+	width:22px;
+	height:21px;
+	background: url(../images/hill/images3.png) no-repeat -380px -28px;
+}
+.head_DF .DF_center ul .af{
+	margin-left:-20px;
+}
+
+.head_DF .DF_center ul .bf{
+	margin-left:-20px;
+}
+.head_DF .DF_center ul .cf{
+	margin-left:10px;
+}
+.head_DF .DF_center ul li a em{
+	display: block;
+	color: #000;
+	font-size: 14px;
+	float: left;
+}
+.head_DF .DF_center ul li a:hover em{
+	color:#a70d01;
+}
+
+footer{
+	margin-top: -135px;
+	height:100px;
+	position: relative;
+}
+.foot_center{
+	height:100px;
+}
+.foot_cen_top .top_right p i{
+	color:#000000;
+}
+.foot_cen_top .top_right p .Custody{
+	color:#777;
+}
